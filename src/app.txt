@@ -1,5 +1,1 @@
-heelo
-hellooo git
-new change
-line from master
-line from feature2
+master version
