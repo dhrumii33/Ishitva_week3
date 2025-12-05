@@ -3,3 +3,4 @@ master version
 =======
 feature vesrion
 >>>>>>> feature2
+line from master
