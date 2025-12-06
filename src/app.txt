@@ -1,6 +1,7 @@
 <<<<<<< HEAD
-master version
-=======
-feature vesrion
->>>>>>> feature2
 line from master
+=======
+rebse bracnch
+>>>>>>> ba3f67a (rebase branch commit)
+
+
